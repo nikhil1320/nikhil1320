@@ -9,9 +9,7 @@ Email: nikhil0420k@gmail.com
 
 Location: Agra, Uttar Pradesh, India 
 
-GitHub: Nikhil Kumar 
-
-LinkedIn: Nikhil Kumar 
+LinkedIn: [Nikhil Kumar ](https://www.linkedin.com/in/nikhil-kumar-3a3b24290/)
 
 🎯 Who Am I? I am a results-oriented Data Analyst with hands-on experience in Python, SQL, Power BI, and Excel. With a strong foundation in data analysis and visualization, I am passionate about solving real-world problems, crafting interactive dashboards, and leveraging data-driven insights to create impactful solutions.
 
