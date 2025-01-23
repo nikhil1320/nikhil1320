@@ -3,7 +3,13 @@ Hi there! 👋 I'm Nikhil Kumar, a dedicated Data Analyst with expertise in tran
 
 📫 Let's Connect
 
-Phone: +91 8193927660 Email: nikhil0420k@gmail.com Location: Agra, Uttar Pradesh, India GitHub: Nikhil Kumar LinkedIn: Nikhil Kumar 🎯 Who Am I? I am a results-oriented Data Analyst with hands-on experience in Python, SQL, Power BI, and Excel. With a strong foundation in data analysis and visualization, I am passionate about solving real-world problems, crafting interactive dashboards, and leveraging data-driven insights to create impactful solutions.
+Phone: +91 8193927660 
+Email: nikhil0420k@gmail.com 
+Location: Agra, Uttar Pradesh, India 
+GitHub: Nikhil Kumar 
+LinkedIn: Nikhil Kumar 
+
+🎯 Who Am I? I am a results-oriented Data Analyst with hands-on experience in Python, SQL, Power BI, and Excel. With a strong foundation in data analysis and visualization, I am passionate about solving real-world problems, crafting interactive dashboards, and leveraging data-driven insights to create impactful solutions.
 
 🛠️ My Tech Arsenal
 
